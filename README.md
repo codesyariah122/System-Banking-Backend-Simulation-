@@ -54,6 +54,16 @@ CREATE TABLE transactions (
 ```
 
 ### API Response Implementation  
+
+**Allow permition file simulate_transfer.sh**
+```bash
+# chmod +x simulate_transfer.sh
+```  
+***Execute simulate_transfer.sh***  
+```bash
+# ./simulate_transfer.sh
+```
+
 **Use Curl**
 ```bash
 #!/bin/bash
